@@ -1,0 +1,6 @@
+gameplan:
+    -display window
+    -import body and show it
+    -inverse kinemetics
+    -physics and collisions
+    -UI and signal comunication
