@@ -1,0 +1,7 @@
+**GOALS**
+    1) setting up a basic IO interface to set the angle of the motors manually 
+    2) solving basic 2D inverse kinematics to be able to automatically set the motor angles given a point in space (xy coords)
+    3) making it actually work (optional)
+    4) set up a third motor for 3D inverse kinematics (which will never work so I wont even bother trying)
+    5) connect it with the phisics engine (which I also have no idea how to make)
+    6) be finally done with this project and live happily ever after (will never happend)
